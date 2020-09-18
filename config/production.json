@@ -1,0 +1,7 @@
+{
+	"mongoURI": "mongodb+srv://ranjith093:jWTb5IJu6PP6GL0s@dev-connector.keuho.mongodb.net/<dbname>?retryWrites=true&w=majority",
+	"jwtSecret": "mysecrettoken",
+	"githubClientId": "efaf7f3b7e8e5be272b8",
+	"githubSecret": "5debd816e3acdd5bfb17016da7fd26617d4f3b78",
+	"githubToken": "9ab1c5c662aeb81188d879e0d0c27d501ac026fa"
+}
